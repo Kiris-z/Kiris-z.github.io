@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://yoursite.com</id>
-    <title>Hexo</title>
+    <title>Welcome to Kiris-z&#39;s blog</title>
     <subtitle>subtitle</subtitle>
     <icon>http://yoursite.com/images/favicon.ico</icon>
     <link href="http://yoursite.com" />
     <author>
-      <name>John Doe</name>
+      <name>Kiris-z</name>
     </author>
     <updated>2020-08-13T13:45:48.000Z</updated>
     <category term="关键词1" />

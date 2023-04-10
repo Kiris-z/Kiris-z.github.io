@@ -1916,7 +1916,8 @@ public class Main &amp;#123;
             <category term="Foo" scheme="http://yoursite.com/tags/Foo/" />
             <category term="Bar" scheme="http://yoursite.com/tags/Bar/" />
             <pubDate>Tue, 24 Jul 2018 23:31:06 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post is originated from &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vYXBhY2tlZXIvNDE1OTI2OA==&#34;&gt;here&lt;/span&gt; and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.&lt;/p&gt;
+            <description><![CDATA[ &lt;hr /&gt;
+&lt;p&gt;This post is originated from &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vYXBhY2tlZXIvNDE1OTI2OA==&#34;&gt;here&lt;/span&gt; and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.&lt;/p&gt;
 &lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2 id=&#34;headers&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#headers&#34;&gt;#&lt;/a&gt; Headers&lt;/h2&gt;

@@ -22,24 +22,27 @@
             <category term="数学" scheme="http://yoursite.com/categories/postgraduate/math/" />
             <pubDate>Tue, 11 Apr 2023 19:38:52 +0800</pubDate>
             <description><![CDATA[ &lt;ol&gt;
-&lt;li class=&#34;quiz true&#34;&gt;编译时多态主要指运算符重载与函数重载，而运行时多态主要指虚函数。&lt;/li&gt;
-&lt;li class=&#34;quiz multi&#34;&gt;有基类  &lt;code&gt;SHAPE&lt;/code&gt; ，派生类  &lt;code&gt;CIRCLE&lt;/code&gt; ，声明如下变量： &lt;/li&gt;
-&lt;/ol&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;SHAPE shape1&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;p1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   CIRCLE circle1&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;q1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p class=&#34;correct&#34;&gt;下列哪些项是 “派生类对象替换基类对象”。-  &lt;code&gt;p1=&amp;amp;circle1;&lt;/code&gt; &lt;/p&gt;
+&lt;li class=&#34;quiz true&#34;&gt;
+&lt;p&gt;编译时多态主要指运算符重载与函数重载，而运行时多态主要指虚函数。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz multi&#34;&gt;
+&lt;p&gt;有基类  &lt;code&gt;SHAPE&lt;/code&gt; ，派生类  &lt;code&gt;CIRCLE&lt;/code&gt; ，声明如下变量： &lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;SHAPE shape1&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;p1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;CIRCLE circle1&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;q1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;下列哪些项是 “派生类对象替换为基类对象”。&lt;/p&gt;
 &lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;&lt;code class=&#34;correct&#34;&gt;p1=&amp;amp;cicle1;&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;q1=&amp;amp;shape1;&lt;/code&gt;&lt;/li&gt;
-&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;shape1=circle1;&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code class=&#34;correct&#34;&gt;shape1=circle1;&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;circle1=shape1;&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;ul class=&#34;options&#34;&gt;
-&lt;li&gt;✔️ 令基类对象的指针指向派生类对象&lt;/li&gt;
-&lt;li&gt;❌ 派生类指针指向基类的引用&lt;/li&gt;
-&lt;li&gt;✔️ 派生类对象给基类对象赋值&lt;/li&gt;
-&lt;li&gt;❌ 基类对象给派生类对象赋值&lt;/li&gt;
+&lt;li&gt;：heavy_check_mark：令基类对象的指针指向派生类对象&lt;/li&gt;
+&lt;li&gt;：x：派生类指针指向基类的引用&lt;/li&gt;
+&lt;li&gt;：heavy_check_mark：派生类对象给基类对象赋值&lt;/li&gt;
+&lt;li&gt;：x：基类对象给派生类对象赋值&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;ol start=&#34;3&#34;&gt;
+&lt;/li&gt;
 &lt;li class=&#34;quiz&#34;&gt;
 &lt;p&gt;下列叙述正确的是 &lt;span class=&#34;gap&#34;&gt;&lt;/span&gt; 。&lt;/p&gt;
 &lt;ul class=&#34;options&#34;&gt;

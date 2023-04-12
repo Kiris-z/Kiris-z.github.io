@@ -811,7 +811,7 @@ graph LR
         </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/note/config/</guid>
-            <title>Step.1 基本配置</title>
+            <title>Step.3 基本配置</title>
             <link>http://yoursite.com/note/config/</link>
             <category term="使用说明" scheme="http://yoursite.com/categories/note/" />
             <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/" />
@@ -1767,7 +1767,7 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
         </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/videos/</guid>
-            <title>Videos</title>
+            <title>视频测试</title>
             <link>http://yoursite.com/videos/</link>
             <pubDate>Wed, 25 Dec 2013 00:19:15 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is a video test post.&lt;/p&gt;
@@ -1938,14 +1938,6 @@ http.createServer((req, res) &amp;#x3D;&amp;gt; {
 &lt;/table&gt;
 &lt;h2 id=&#34;misc-stuff-abbr-acronym-sub-sup-kbd-etc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#misc-stuff-abbr-acronym-sub-sup-kbd-etc&#34;&gt;#&lt;/a&gt; Misc Stuff - abbr, acronym, sub, sup, kbd, etc.&lt;/h2&gt;
 &lt;p&gt;Lorem &amp;lt;sup&amp;gt;superscript&amp;lt;/sup&amp;gt; dolor &amp;lt;sub&amp;gt;subscript&amp;lt;/sub&amp;gt; amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &amp;lt;cite&amp;gt;cite&amp;lt;/cite&amp;gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. &amp;lt;acronym title=&amp;quot;National Basketball Association&amp;quot;&amp;gt;NBA&amp;lt;/acronym&amp;gt; Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  &amp;lt;abbr title=&amp;quot;Avenue&amp;quot;&amp;gt;AVE&amp;lt;/abbr&amp;gt;. Use &amp;lt;kbd&amp;gt;Crtl&amp;lt;/kbd&amp;gt; + &amp;lt;kbd&amp;gt;C&amp;lt;/kbd&amp;gt; to stop.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://yoursite.com/hello-world/</guid>
-            <title>Hello World</title>
-            <link>http://yoursite.com/hello-world/</link>
-            <pubDate>Tue, 24 Dec 2013 17:49:32 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3plc3BpYS50dy9oZXhv&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3plc3BpYS50dy9oZXhvL2RvY3M=&#34;&gt;documentation&lt;/span&gt; to learn how to use.&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

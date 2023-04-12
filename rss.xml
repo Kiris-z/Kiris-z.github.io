@@ -67,7 +67,7 @@
         </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/note/special/</guid>
-            <title>Step.4 主题特殊功能</title>
+            <title>Step.5 主题特殊功能</title>
             <link>http://yoursite.com/note/special/</link>
             <category term="使用说明" scheme="http://yoursite.com/categories/note/" />
             <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/" />
@@ -670,7 +670,7 @@ graph LR
         </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/note/display/</guid>
-            <title>Step.3 界面显示</title>
+            <title>Step.4 界面显示</title>
             <link>http://yoursite.com/note/display/</link>
             <category term="使用说明" scheme="http://yoursite.com/categories/note/" />
             <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/" />
@@ -811,7 +811,7 @@ graph LR
         </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/note/config/</guid>
-            <title>Step.2 基本配置</title>
+            <title>Step.1 基本配置</title>
             <link>http://yoursite.com/note/config/</link>
             <category term="使用说明" scheme="http://yoursite.com/categories/note/" />
             <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/" />
@@ -820,7 +820,7 @@ graph LR
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;&lt;strong&gt;📌基本配置&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;h1 id=&#34;站点别称&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#站点别称&#34;&gt;#&lt;/a&gt; 站点别称&lt;/h1&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;alternate&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; Yume Shoka&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;这里设置的名称代替 Logo，显示在页面顶部，以及页尾 ©️处&lt;/p&gt;
+&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;alternate&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; Yoru Meigetsu&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;这里设置的名称代替 Logo，显示在页面顶部，以及页尾 ©️处&lt;/p&gt;
 &lt;h1 id=&#34;静态文件目录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#静态文件目录&#34;&gt;#&lt;/a&gt; 静态文件目录&lt;/h1&gt;
 &lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;statics&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; / &lt;span class=&#34;token comment&#34;&gt;#//cdn.jsdelivr.net/gh/amehime/shoka@latest/&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;默认值是  &lt;code&gt;/&lt;/code&gt; ，指使用本地静态文件&lt;br /&gt;
 可以修改成  &lt;code&gt;//cdn.jsdelivr.net/gh/您的github用户名/您的项目名@latest/&lt;/code&gt;  这种形式，以使用 jsDelivr 进行加速。&lt;br /&gt;
@@ -970,7 +970,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/note/dependents/</guid>
-            <title>Step.1 依赖插件</title>
+            <title>Step.2 依赖插件</title>
             <link>http://yoursite.com/note/dependents/</link>
             <category term="使用说明" scheme="http://yoursite.com/categories/note/" />
             <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/" />
@@ -1064,7 +1064,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/note/theme-shoka-doc/</guid>
-            <title>快速开始</title>
+            <title>Step.1 快速开始</title>
             <link>http://yoursite.com/note/theme-shoka-doc/</link>
             <category term="使用说明" scheme="http://yoursite.com/categories/note/" />
             <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/" />
@@ -1766,37 +1766,6 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/images/</guid>
-            <title>Images</title>
-            <link>http://yoursite.com/images/</link>
-            <pubDate>Thu, 26 Dec 2013 22:46:49 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This is a image test post.&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://yoursite.com/no-title/</guid>
-            <title></title>
-            <link>http://yoursite.com/no-title/</link>
-            <pubDate>Wed, 25 Dec 2013 22:57:49 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post doesn&#39;t have a title. Make sure it&#39;s accessible.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://yoursite.com/excerpts/</guid>
-            <title>Excerpts</title>
-            <link>http://yoursite.com/excerpts/</link>
-            <pubDate>Wed, 25 Dec 2013 00:23:23 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;The following contents should be invisible in home/archive page.&lt;/p&gt;
-&lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.&lt;/p&gt;
-&lt;p&gt;Sed lorem felis, congue non fringilla eu, aliquam eu eros. Curabitur orci libero, mollis sed semper vitae, adipiscing in lectus. Aenean non egestas odio. Donec sollicitudin nisi quis lorem gravida, in pharetra mauris fringilla. Duis sit amet faucibus dolor, id aliquam neque. In egestas, odio gravida tempor dictum, mauris felis faucibus purus, sit amet commodo lacus diam vitae est. Ut ut quam eget massa semper sodales. Aenean non ipsum cursus, blandit lectus in, ornare odio. Curabitur ultrices porttitor vulputate.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">http://yoursite.com/videos/</guid>
             <title>Videos</title>
             <link>http://yoursite.com/videos/</link>
@@ -1891,46 +1860,92 @@ http.createServer((req, res) &amp;#x3D;&amp;gt; {
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</guid>
-            <title>日本語テスト</title>
-            <link>http://yoursite.com/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</link>
-            <pubDate>Tue, 24 Dec 2013 23:33:26 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;tags&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#tags&#34;&gt;#&lt;/a&gt; tags:&lt;/h2&gt;
-&lt;p&gt;This is a Japanese test post.&lt;/p&gt;
-&lt;p&gt;私は昨日ついにその助力家というのの上よりするたなけれ。&lt;/p&gt;
-&lt;p&gt;最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。&lt;/p&gt;
-&lt;p&gt;がたを知っないはずも同時に九月をいよいよたありた。&lt;/p&gt;
-&lt;p&gt;もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2xpcHN1bS5zdWd1dHN1a2FlcnUuanAvaW5kZXguY2dp&#34;&gt;すぐ使えるダミーテキスト - 日本語 Lorem ipsum&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+            <guid isPermalink="true">http://yoursite.com/link-post/</guid>
+            <title>Link Post</title>
+            <link>http://yoursite.com/link-post/</link>
+            <pubDate>Tue, 24 Dec 2013 23:30:04 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This is a link post. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</guid>
-            <title>中文測試</title>
-            <link>http://yoursite.com/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</link>
-            <pubDate>Tue, 24 Dec 2013 23:31:30 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;tags&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#tags&#34;&gt;#&lt;/a&gt; tags:&lt;/h2&gt;
-&lt;p&gt;This is a Chinese test post.&lt;/p&gt;
-&lt;p&gt;善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p&gt;
-&lt;p&gt;以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p&gt;
-&lt;p&gt;就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我…… 月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p&gt;
-&lt;p&gt;國新故。&lt;/p&gt;
+            <guid isPermalink="true">http://yoursite.com/elements/</guid>
+            <title>Elements</title>
+            <link>http://yoursite.com/elements/</link>
+            <pubDate>Tue, 24 Dec 2013 23:29:08 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don&#39;t forget to redefine the style by yourself.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-1&#34;&gt;#&lt;/a&gt; Heading 1&lt;/h1&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-2&#34;&gt;#&lt;/a&gt; Heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;heading-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-3&#34;&gt;#&lt;/a&gt; Heading 3&lt;/h3&gt;
+&lt;h4 id=&#34;heading-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-4&#34;&gt;#&lt;/a&gt; Heading 4&lt;/h4&gt;
+&lt;h5 id=&#34;heading-5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-5&#34;&gt;#&lt;/a&gt; Heading 5&lt;/h5&gt;
+&lt;h6 id=&#34;heading-6&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-6&#34;&gt;#&lt;/a&gt; Heading 6&lt;/h6&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;paragraph&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#paragraph&#34;&gt;#&lt;/a&gt; Paragraph&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&#34;&#34;&gt;test link&lt;/a&gt; consectetur adipiscing elit. &lt;strong&gt;Strong text&lt;/strong&gt; pellentesque ligula commodo viverra vehicula. &lt;em&gt;Italic text&lt;/em&gt; at ullamcorper enim. Morbi a euismod nibh. &amp;lt;u&amp;gt;Underline text&amp;lt;/u&amp;gt; non elit nisl. &lt;s&gt;Deleted text&lt;/s&gt; tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.&lt;/p&gt;
+&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus.  &lt;code&gt;Sed erat diam&lt;/code&gt; , blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;工步他始能詩的，裝進分星海演意學值例道…… 於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p&gt;
+&lt;p&gt;Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5yaWNoeWxpLmNvbS90b29sL2xvcmVtaXBzdW0v&#34;&gt;亂數假文產生器 - Chinese Lorem Ipsum&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean convallis, diam et congue ultricies, erat magna tincidunt orci, pulvinar posuere mi sapien ac magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vitae placerat mauris. Nullam laoreet ante posuere tortor blandit auctor. Sed id ligula volutpat leo consequat placerat. Mauris fermentum dolor sed augue malesuada sollicitudin. Vivamus ultrices nunc felis, quis viverra orci eleifend ut. Donec et quam id urna cursus posuere. Donec elementum scelerisque laoreet.&lt;/p&gt;
+&lt;h2 id=&#34;list-types&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#list-types&#34;&gt;#&lt;/a&gt; List Types&lt;/h2&gt;
+&lt;h3 id=&#34;definition-list-dl&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#definition-list-dl&#34;&gt;#&lt;/a&gt; Definition List (dl)&lt;/h3&gt;
+&lt;p&gt;&amp;lt;dl&amp;gt;&amp;lt;dt&amp;gt;Definition List Title&amp;lt;/dt&amp;gt;&amp;lt;dd&amp;gt;This is a definition list division.&amp;lt;/dd&amp;gt;&amp;lt;/dl&amp;gt;&lt;/p&gt;
+&lt;h3 id=&#34;ordered-list-ol&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ordered-list-ol&#34;&gt;#&lt;/a&gt; Ordered List (ol)&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;List Item 1&lt;/li&gt;
+&lt;li&gt;List Item 2&lt;/li&gt;
+&lt;li&gt;List Item 3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;unordered-list-ul&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#unordered-list-ul&#34;&gt;#&lt;/a&gt; Unordered List (ul)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;List Item 1&lt;/li&gt;
+&lt;li&gt;List Item 2&lt;/li&gt;
+&lt;li&gt;List Item 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;checkbox-list-ul&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#checkbox-list-ul&#34;&gt;#&lt;/a&gt; Checkbox List (ul)&lt;/h3&gt;
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_0&#34;&gt; List Item 1 unchecked&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_1&#34; checked=&#34;true&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_1&#34;&gt; List Item 2 checked&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_2&#34; checked=&#34;true&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_2&#34;&gt; List Item 3 checked&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;table&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#table&#34;&gt;#&lt;/a&gt; Table&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Table Header 1&lt;/th&gt;
+&lt;th&gt;Table Header 2&lt;/th&gt;
+&lt;th&gt;Table Header 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;misc-stuff-abbr-acronym-sub-sup-kbd-etc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#misc-stuff-abbr-acronym-sub-sup-kbd-etc&#34;&gt;#&lt;/a&gt; Misc Stuff - abbr, acronym, sub, sup, kbd, etc.&lt;/h2&gt;
+&lt;p&gt;Lorem &amp;lt;sup&amp;gt;superscript&amp;lt;/sup&amp;gt; dolor &amp;lt;sub&amp;gt;subscript&amp;lt;/sub&amp;gt; amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &amp;lt;cite&amp;gt;cite&amp;lt;/cite&amp;gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. &amp;lt;acronym title=&amp;quot;National Basketball Association&amp;quot;&amp;gt;NBA&amp;lt;/acronym&amp;gt; Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  &amp;lt;abbr title=&amp;quot;Avenue&amp;quot;&amp;gt;AVE&amp;lt;/abbr&amp;gt;. Use &amp;lt;kbd&amp;gt;Crtl&amp;lt;/kbd&amp;gt; + &amp;lt;kbd&amp;gt;C&amp;lt;/kbd&amp;gt; to stop.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/long-title/</guid>
-            <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.</title>
-            <link>http://yoursite.com/long-title/</link>
-            <pubDate>Tue, 24 Dec 2013 23:31:06 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post has a long title. Make sure the title displayed right.&lt;/p&gt;
+            <guid isPermalink="true">http://yoursite.com/hello-world/</guid>
+            <title>Hello World</title>
+            <link>http://yoursite.com/hello-world/</link>
+            <pubDate>Tue, 24 Dec 2013 17:49:32 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3plc3BpYS50dy9oZXhv&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3plc3BpYS50dy9oZXhvL2RvY3M=&#34;&gt;documentation&lt;/span&gt; to learn how to use.&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

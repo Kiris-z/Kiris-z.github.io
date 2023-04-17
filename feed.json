@@ -7,6 +7,20 @@
     "home_page_url": "http://kiris-z.github.io",
     "items": [
         {
+            "id": "http://kiris-z.github.io/bug/vscode%E8%B0%83%E8%AF%95stl%E4%B8%8D%E6%98%BE%E7%A4%BA%E6%95%B0%E6%8D%AE/",
+            "url": "http://kiris-z.github.io/bug/vscode%E8%B0%83%E8%AF%95stl%E4%B8%8D%E6%98%BE%E7%A4%BA%E6%95%B0%E6%8D%AE/",
+            "title": "1.Windows下vscode调试C++代码，STL只显示地址不显示数据",
+            "date_published": "2023-04-17T08:02:01.000Z",
+            "content_html": "<p>先挂着，回头再写 ^^</p>\n",
+            "tags": [
+                "bug",
+                "vscode",
+                "bug",
+                "C++",
+                "STL"
+            ]
+        },
+        {
             "id": "http://kiris-z.github.io/postgraduate/math/findlimit/",
             "url": "http://kiris-z.github.io/postgraduate/math/findlimit/",
             "title": "求极限例题",

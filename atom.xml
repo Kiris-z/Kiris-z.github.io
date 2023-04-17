@@ -8,9 +8,22 @@
     <author>
       <name>Kiris-z</name>
     </author>
-    <updated>2023-04-11T11:38:52.000Z</updated>
+    <updated>2023-04-17T08:02:01.000Z</updated>
     <category term="关键词1" />
     <category term="关键词2" />
+    <entry>
+        <id>http://kiris-z.github.io/bug/vscode%E8%B0%83%E8%AF%95stl%E4%B8%8D%E6%98%BE%E7%A4%BA%E6%95%B0%E6%8D%AE/</id>
+        <title>1.Windows下vscode调试C++代码，STL只显示地址不显示数据</title>
+        <link rel="alternate" href="http://kiris-z.github.io/bug/vscode%E8%B0%83%E8%AF%95stl%E4%B8%8D%E6%98%BE%E7%A4%BA%E6%95%B0%E6%8D%AE/"/>
+        <content type="html">&lt;p&gt;先挂着，回头再写 ^^&lt;/p&gt;
+</content>
+        <category term="bug" scheme="http://kiris-z.github.io/categories/bug/" />
+        <category term="vscode" scheme="http://kiris-z.github.io/tags/vscode/" />
+        <category term="bug" scheme="http://kiris-z.github.io/tags/bug/" />
+        <category term="C++" scheme="http://kiris-z.github.io/tags/C/" />
+        <category term="STL" scheme="http://kiris-z.github.io/tags/STL/" />
+        <updated>2023-04-17T08:02:01.000Z</updated>
+    </entry>
     <entry>
         <id>http://kiris-z.github.io/postgraduate/math/findlimit/</id>
         <title>求极限例题</title>

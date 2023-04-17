@@ -12,9 +12,9 @@
     <category term="关键词1" />
     <category term="关键词2" />
     <entry>
-        <id>http://kiris-z.github.io/bug/vscode%E8%B0%83%E8%AF%95stl%E4%B8%8D%E6%98%BE%E7%A4%BA%E6%95%B0%E6%8D%AE/</id>
+        <id>http://kiris-z.github.io/bug/vscode-STL-bug/</id>
         <title>1.Windows下vscode调试C++代码，STL只显示地址不显示数据</title>
-        <link rel="alternate" href="http://kiris-z.github.io/bug/vscode%E8%B0%83%E8%AF%95stl%E4%B8%8D%E6%98%BE%E7%A4%BA%E6%95%B0%E6%8D%AE/"/>
+        <link rel="alternate" href="http://kiris-z.github.io/bug/vscode-STL-bug/"/>
         <content type="html">&lt;h2 id=&#34;bug复现&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#bug复现&#34;&gt;#&lt;/a&gt; bug 复现&lt;/h2&gt;
 &lt;p&gt;2023 年 4 月。&lt;/p&gt;
 &lt;p&gt;当在 C++ 代码中使用 STL 容器，调试过程中在左侧监视窗口查看 STL 内容，只会显示地址，而非 STL 容器内的值。该问题出现在将旧版本的 vscode 更新为 1.77.3 版本后发生，切换为 1.69 版本后会恢复正常。当第一次切换为某些 1.7 几版本的时候，会短暂正常，在一到两小时后，该 bug 就会出现，诶，这一点就很神奇。&lt;/p&gt;

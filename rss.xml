@@ -10,10 +10,21 @@
         </author>
         <description>2023,我只想做一个不用翻身的咸鱼</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 17 Apr 2023 16:02:01 +0800</pubDate>
-        <lastBuildDate>Mon, 17 Apr 2023 16:02:01 +0800</lastBuildDate>
+        <pubDate>Sat, 22 Apr 2023 16:05:06 +0800</pubDate>
+        <lastBuildDate>Sat, 22 Apr 2023 16:05:06 +0800</lastBuildDate>
         <category term="关键词1" />
         <category term="关键词2" />
+        <item>
+            <guid isPermalink="true">http://kiris-z.github.io/postgraduate/math/integral/</guid>
+            <title>二. 积分例题</title>
+            <link>http://kiris-z.github.io/postgraduate/math/integral/</link>
+            <category term="考研" scheme="http://kiris-z.github.io/categories/postgraduate/" />
+            <category term="数学" scheme="http://kiris-z.github.io/categories/postgraduate/math/" />
+            <category term="考研" scheme="http://kiris-z.github.io/tags/%E8%80%83%E7%A0%94/" />
+            <category term="数学" scheme="http://kiris-z.github.io/tags/%E6%95%B0%E5%AD%A6/" />
+            <pubDate>Sat, 22 Apr 2023 16:05:06 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://kiris-z.github.io/bug/vscode-STL-bug/</guid>
             <title>1.Windows下vscode调试C++代码，STL只显示地址不显示数据</title>
@@ -41,10 +52,12 @@
         </item>
         <item>
             <guid isPermalink="true">http://kiris-z.github.io/postgraduate/math/findlimit/</guid>
-            <title>求极限例题</title>
+            <title>一. 求极限例题</title>
             <link>http://kiris-z.github.io/postgraduate/math/findlimit/</link>
             <category term="考研" scheme="http://kiris-z.github.io/categories/postgraduate/" />
             <category term="数学" scheme="http://kiris-z.github.io/categories/postgraduate/math/" />
+            <category term="考研" scheme="http://kiris-z.github.io/tags/%E8%80%83%E7%A0%94/" />
+            <category term="math" scheme="http://kiris-z.github.io/tags/math/" />
             <pubDate>Tue, 11 Apr 2023 19:38:52 +0800</pubDate>
             <description><![CDATA[ &lt;ol&gt;
 &lt;li class=&#34;quiz false&#34;&gt;

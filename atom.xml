@@ -8,9 +8,20 @@
     <author>
       <name>Kiris-z</name>
     </author>
-    <updated>2023-04-17T08:02:01.000Z</updated>
+    <updated>2023-04-22T08:05:06.000Z</updated>
     <category term="关键词1" />
     <category term="关键词2" />
+    <entry>
+        <id>http://kiris-z.github.io/postgraduate/math/integral/</id>
+        <title>二. 积分例题</title>
+        <link rel="alternate" href="http://kiris-z.github.io/postgraduate/math/integral/"/>
+        <content type="html"></content>
+        <category term="考研" scheme="http://kiris-z.github.io/categories/postgraduate/" />
+        <category term="数学" scheme="http://kiris-z.github.io/categories/postgraduate/math/" />
+        <category term="考研" scheme="http://kiris-z.github.io/tags/%E8%80%83%E7%A0%94/" />
+        <category term="数学" scheme="http://kiris-z.github.io/tags/%E6%95%B0%E5%AD%A6/" />
+        <updated>2023-04-22T08:05:06.000Z</updated>
+    </entry>
     <entry>
         <id>http://kiris-z.github.io/bug/vscode-STL-bug/</id>
         <title>1.Windows下vscode调试C++代码，STL只显示地址不显示数据</title>
@@ -38,7 +49,7 @@
     </entry>
     <entry>
         <id>http://kiris-z.github.io/postgraduate/math/findlimit/</id>
-        <title>求极限例题</title>
+        <title>一. 求极限例题</title>
         <link rel="alternate" href="http://kiris-z.github.io/postgraduate/math/findlimit/"/>
         <content type="html">&lt;ol&gt;
 &lt;li class=&#34;quiz false&#34;&gt;
@@ -114,6 +125,8 @@
 </content>
         <category term="考研" scheme="http://kiris-z.github.io/categories/postgraduate/" />
         <category term="数学" scheme="http://kiris-z.github.io/categories/postgraduate/math/" />
+        <category term="考研" scheme="http://kiris-z.github.io/tags/%E8%80%83%E7%A0%94/" />
+        <category term="math" scheme="http://kiris-z.github.io/tags/math/" />
         <updated>2023-04-11T11:38:52.000Z</updated>
     </entry>
     <entry>

@@ -19,7 +19,8 @@
             <title>二. 积分例题</title>
             <link>http://kiris-z.github.io/postgraduate/math/higher%20mathematics/integral/</link>
             <category term="考研" scheme="http://kiris-z.github.io/categories/postgraduate/" />
-            <category term="数学，高数" scheme="http://kiris-z.github.io/categories/postgraduate/%E6%95%B0%E5%AD%A6%EF%BC%8C%E9%AB%98%E6%95%B0/" />
+            <category term="数学" scheme="http://kiris-z.github.io/categories/postgraduate/math/" />
+            <category term="高数" scheme="http://kiris-z.github.io/categories/postgraduate/math/higher-mathematics/" />
             <category term="考研" scheme="http://kiris-z.github.io/tags/%E8%80%83%E7%A0%94/" />
             <category term="数学" scheme="http://kiris-z.github.io/tags/%E6%95%B0%E5%AD%A6/" />
             <category term="高数" scheme="http://kiris-z.github.io/tags/%E9%AB%98%E6%95%B0/" />
@@ -66,7 +67,8 @@
             <title>一. 求极限例题</title>
             <link>http://kiris-z.github.io/postgraduate/math/higher%20mathematics/findlimit/</link>
             <category term="考研" scheme="http://kiris-z.github.io/categories/postgraduate/" />
-            <category term="数学，高数" scheme="http://kiris-z.github.io/categories/postgraduate/%E6%95%B0%E5%AD%A6%EF%BC%8C%E9%AB%98%E6%95%B0/" />
+            <category term="数学" scheme="http://kiris-z.github.io/categories/postgraduate/math/" />
+            <category term="高数" scheme="http://kiris-z.github.io/categories/postgraduate/math/higher-mathematics/" />
             <category term="考研" scheme="http://kiris-z.github.io/tags/%E8%80%83%E7%A0%94/" />
             <category term="数学" scheme="http://kiris-z.github.io/tags/%E6%95%B0%E5%AD%A6/" />
             <category term="高数" scheme="http://kiris-z.github.io/tags/%E9%AB%98%E6%95%B0/" />

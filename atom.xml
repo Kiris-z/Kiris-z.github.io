@@ -8,9 +8,17 @@
     <author>
       <name>Kiris-z</name>
     </author>
-    <updated>2023-05-06T14:39:00.000Z</updated>
+    <updated>2023-05-30T15:30:04.000Z</updated>
     <category term="关键词1" />
     <category term="关键词2" />
+    <entry>
+        <id>http://kiris-z.github.io/link-post/</id>
+        <title>不可积积分汇总</title>
+        <link rel="alternate" href="http://kiris-z.github.io/link-post/"/>
+        <content type="html">&lt;p&gt;某大佬整理的不可积积分&lt;/p&gt;
+</content>
+        <updated>2023-05-30T15:30:04.000Z</updated>
+    </entry>
     <entry>
         <id>http://kiris-z.github.io/postgraduate/math/higher%20mathematics/formula/</id>
         <title>五. 常用公式</title>
@@ -1423,14 +1431,6 @@ http.createServer((req, res) &amp;#x3D;&amp;gt; {
         <content type="html">&lt;p&gt;This is a link post without a title. The title should be the link with or without protocol. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
 </content>
         <updated>2013-12-24T15:44:13.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://kiris-z.github.io/link-post/</id>
-        <title>Link Post</title>
-        <link rel="alternate" href="http://kiris-z.github.io/link-post/"/>
-        <content type="html">&lt;p&gt;This is a link post. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
-</content>
-        <updated>2013-12-24T15:30:04.000Z</updated>
     </entry>
     <entry>
         <id>http://kiris-z.github.io/elements/</id>

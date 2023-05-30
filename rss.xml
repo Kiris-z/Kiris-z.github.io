@@ -10,10 +10,18 @@
         </author>
         <description>2023,我只想做一个不用翻身的咸鱼</description>
         <language>zh-CN</language>
-        <pubDate>Sat, 06 May 2023 22:39:00 +0800</pubDate>
-        <lastBuildDate>Sat, 06 May 2023 22:39:00 +0800</lastBuildDate>
+        <pubDate>Tue, 30 May 2023 23:30:04 +0800</pubDate>
+        <lastBuildDate>Tue, 30 May 2023 23:30:04 +0800</lastBuildDate>
         <category term="关键词1" />
         <category term="关键词2" />
+        <item>
+            <guid isPermalink="true">http://kiris-z.github.io/link-post/</guid>
+            <title>不可积积分汇总</title>
+            <link>http://kiris-z.github.io/link-post/</link>
+            <pubDate>Tue, 30 May 2023 23:30:04 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;某大佬整理的不可积积分&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://kiris-z.github.io/postgraduate/math/higher%20mathematics/formula/</guid>
             <title>五. 常用公式</title>
@@ -1425,14 +1433,6 @@ http.createServer((req, res) &amp;#x3D;&amp;gt; {
             <link>http://kiris-z.github.io/link-post-without-title/</link>
             <pubDate>Tue, 24 Dec 2013 23:44:13 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is a link post without a title. The title should be the link with or without protocol. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://kiris-z.github.io/link-post/</guid>
-            <title>Link Post</title>
-            <link>http://kiris-z.github.io/link-post/</link>
-            <pubDate>Tue, 24 Dec 2013 23:30:04 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This is a link post. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
  ]]></description>
         </item>
         <item>

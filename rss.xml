@@ -20,9 +20,13 @@
             <link>http://kiris-z.github.io/mirotest/</link>
             <category term="test" scheme="http://kiris-z.github.io/tags/test/" />
             <pubDate>Tue, 07 Nov 2023 23:31:06 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;ProcessOn 嵌入测试:&lt;/p&gt;
-&lt;p&gt;&amp;lt;iframe id=&amp;quot;embed_dom&amp;quot; name=&amp;quot;embed_dom&amp;quot; frameborder=&amp;quot;0&amp;quot; style=&amp;quot;display:block;width:800px; height:450px;&amp;quot; src=&amp;quot;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucHJvY2Vzc29uLmNvbS9lbWJlZC82NTQ5ZjMxMWU2NTgxNTA2NDllMWI4NjA=&#34;&gt;https://www.processon.com/embed/6549f311e658150649e1b860&lt;/span&gt;&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
-&lt;p&gt;史纲时间轴&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;ProcessOn 嵌入测试:&lt;br /&gt;
+&amp;lt;iframe id = &amp;quot;embed_dom&amp;quot;&lt;br /&gt;
+name = &amp;quot;embed_dom&amp;quot;&lt;br /&gt;
+frameborder = &amp;quot;0&amp;quot;&lt;br /&gt;
+style = &amp;quot;display:block; width:800px;  height:450px;&amp;quot;&lt;br /&gt;
+src = &amp;quot;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucHJvY2Vzc29uLmNvbS9lbWJlZC82NTQ5ZjMxMWU2NTgxNTA2NDllMWI4NjA=&#34;&gt;https://www.processon.com/embed/6549f311e658150649e1b860&lt;/span&gt;&amp;quot; allow-popups-to-escape-sandbox&amp;gt;&lt;br /&gt;
+&amp;lt;/iframe&amp;gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>

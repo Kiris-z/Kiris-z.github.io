@@ -12,11 +12,10 @@
     <category term="关键词1" />
     <category term="关键词2" />
     <entry>
-        <id>http://kiris-z.github.io/mirotest/</id>
-        <title>嵌入测试</title>
-        <link rel="alternate" href="http://kiris-z.github.io/mirotest/"/>
-        <content type="html">&lt;h2 id=&#34;processon嵌入测试&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#processon嵌入测试&#34;&gt;#&lt;/a&gt; ProcessOn 嵌入测试&lt;/h2&gt;
-&lt;p&gt;&amp;lt;iframe src=&#39;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucHJvY2Vzc29uLmNvbS9lbWJlZC82NTQ5ZjMxMWU2NTgxNTA2NDllMWI4NjA=&#34;&gt;https://www.processon.com/embed/6549f311e658150649e1b860&lt;/span&gt;&#39; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+        <id>http://kiris-z.github.io/Historical%20Outline/</id>
+        <title>考研史纲时间轴</title>
+        <link rel="alternate" href="http://kiris-z.github.io/Historical%20Outline/"/>
+        <content type="html">&lt;p&gt;考研史纲时间轴(&lt;code&gt;&amp;lt;iframe&amp;gt;&lt;/code&gt;标签渲染有问题，改成外链)&lt;/p&gt;
 </content>
         <category term="test" scheme="http://kiris-z.github.io/tags/test/" />
         <updated>2023-11-07T15:31:06.000Z</updated>
